@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aspect Infinity
+- 👋 Hi, I’m Aspect Infinity
 - 👀 I’m interested in Roblox Game Developement/Moderation.
 - 🌱 I’m currently learning Lua (Basically scripting roblox games.)
 - 💞️ I’m looking to collaborate on Roblox games.
